@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_SattaChart"
+            android:title="@string/SattaChart" />
+        <item
+            android:id="@+id/nav_sattaforum"
+            android:title="@string/sattaforum" />
+        <item
+            android:id="@+id/nav_currentmixchart"
+            android:title="@string/currentmixchart" />
+        <item
+            android:id="@+id/nav_guesserforum"
+            android:title="@string/guesserforum" />
+        <item
+            android:id="@+id/nav_freejodi"
+            android:title="@string/freejodi" />
+
+        <item
+            android:id="@+id/nav_VIPForum"
+            android:title="@string/VIPForum" />
+        <item
+            android:id="@+id/nav_Privacy"
+            android:title="@string/Privacy" />
+        <item
+            android:id="@+id/nav_LoginReg"
+            android:title="@string/Login_Register" />
+        <item
+            android:id="@+id/nav_Logout"
+            android:title="@string/Logout" />
+
+    </group>
+</menu>

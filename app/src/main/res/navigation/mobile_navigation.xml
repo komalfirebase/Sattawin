@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="satta.win.main.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_sattaforum"
+        android:name="satta.win.main.ui.sattaforum.SattaForumFragment"
+        android:label="@string/sattaforum"
+        tools:layout="@layout/fragment_sattaforum" />
+    <fragment
+        android:id="@+id/nav_currentmixchart"
+        android:name="satta.win.main.ui.sattaforum.CurrentMixChartFragment"
+        android:label="@string/currentmixchart"
+        tools:layout="@layout/fragment_sattaforum" />
+    <fragment
+        android:id="@+id/nav_guesserforum"
+        android:name="satta.win.main.ui.sattaforum.GuesserForumFragment"
+        android:label="@string/guesserforum"
+        tools:layout="@layout/fragment_sattaforum" />
+    <fragment
+        android:id="@+id/nav_freejodi"
+        android:name="satta.win.main.ui.sattaforum.FreeJodiFragment"
+        android:label="@string/freejodi"
+        tools:layout="@layout/fragment_sattaforum" />
+    <fragment
+        android:id="@+id/nav_SattaChart"
+        android:name="satta.win.main.ui.sattaforum.SattaChartFragment"
+        android:label="@string/SattaChart"
+        tools:layout="@layout/fragment_sattaforum" />
+    <fragment
+        android:id="@+id/nav_VIPForum"
+        android:name="satta.win.main.ui.sattaforum.VIPForumFragment"
+        android:label="@string/VIPForum"
+        tools:layout="@layout/fragment_sattaforum" />
+    <fragment
+        android:id="@+id/nav_Privacy"
+        android:name="satta.win.main.ui.sattaforum.PrivacyFragment"
+        android:label="@string/Privacy"
+        tools:layout="@layout/fragment_sattaforum" />
+    <fragment
+        android:id="@+id/nav_LoginReg"
+        android:name="satta.win.main.ui.sattaforum.LoginRegFragment"
+        android:label="@string/Login_Register"
+        tools:layout="@layout/fragment_sattaforum" />
+    <fragment
+        android:id="@+id/nav_Logout"
+        android:name="satta.win.main.ui.LogoutFragment"
+        android:label="@string/Logout"
+        tools:layout="@layout/fragment_sattaforum" />
+
+
+</navigation>

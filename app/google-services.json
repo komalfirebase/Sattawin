@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "659627510553",
+    "project_id": "sattawin-7d7c4",
+    "storage_bucket": "sattawin-7d7c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659627510553:android:f4e17ebb38bef1dfacd388",
+        "android_client_info": {
+          "package_name": "satta.win"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659627510553-kf7r863br75c0dp2id4ho5utasr61d15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ0ccmvMnFKY0aedRwBdQ3SBjY6ysJZ40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659627510553-kf7r863br75c0dp2id4ho5utasr61d15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

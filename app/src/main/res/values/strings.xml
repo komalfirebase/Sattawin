@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Sattawin</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="sattaforum">Satta Forum</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="enter_your_number">Enter Your Number</string>
+    <string name="currentmixchart">Satta Mix Chart</string>
+    <string name="guesserforum">Guesser Forum</string>
+    <string name="freejodi">30 Jodi Today</string>
+    <string name="SattaChart">Satta Chart</string>
+    <string name="VIPForum">VIP Forum</string>
+    <string name="Privacy">Privacy</string>
+    <string name="Login_Register">Login Register</string>
+    <string name="Logout">Logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_to">Welcome To Sattawin</string>
+    <string name="desc">We are here to provide accurate information</string>
+
+    <string name="login_prefrence">login_prefrence</string>
+    <string name="login_status_prefrence">status_prefrence</string>
+
+
+
+
+    <string name="admob_showIntersitial_ad_unit_id">ca-app-pub-1965837604317865/7769499952</string>
+
+</resources>
